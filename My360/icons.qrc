@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resource/icons/clean.png</file>
+        <file>resource/icons/safe_check.png</file>
+        <file>resource/icons/youhua.png</file>
+        <file>resource/icons/shortcut_bkg.png</file>
+        <file>resource/icons/shortcut01.png</file>
+        <file>resource/icons/shortcut02.png</file>
+        <file>resource/icons/shortcut03.png</file>
+        <file>resource/icons/shortcut04.png</file>
+        <file>resource/icons/360logo.png</file>
+        <file>resource/icons/close.png</file>
+        <file>resource/icons/Menu.png</file>
+        <file>resource/icons/min.png</file>
+        <file>resource/icons/playvideo.png</file>
+        <file>resource/icons/Skin.png</file>
+        <file>resource/icons/exam.png</file>
+        <file>resource/scores/2.png</file>
+        <file>resource/scores/3.png</file>
+        <file>resource/scores/4.png</file>
+        <file>resource/scores/5.png</file>
+        <file>resource/scores/6.png</file>
+        <file>resource/scores/7.png</file>
+        <file>resource/scores/8.png</file>
+        <file>resource/scores/9.png</file>
+        <file>resource/scores/examine_score.png</file>
+        <file>resource/scores/hundred.png</file>
+        <file>resource/scores/0.png</file>
+        <file>resource/scores/1.png</file>
+        <file>resource/icons/scan_button_custom.png</file>
+        <file>resource/icons/scan_button_custom_hover.png</file>
+        <file>resource/icons/scan_button_full.png</file>
+        <file>resource/icons/scan_button_full_hover.png</file>
+        <file>resource/icons/scan_button_quick.png</file>
+        <file>resource/icons/scan_button_quick_hover.png</file>
+        <file>resource/icons/return.png</file>
+    </qresource>
+    <qresource prefix="/scores"/>
+</RCC>
